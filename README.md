@@ -22,7 +22,7 @@
 
 <h2 align="center">🧠 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,mysql,vscode" />
 </p>
 
 ---
