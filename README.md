@@ -29,9 +29,15 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
+<!-- GitHub Stats -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laksh25-code&show_icons=true&theme=tokyonight" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Laksh25-code&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksh25-code&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 </p>
 
 ---
