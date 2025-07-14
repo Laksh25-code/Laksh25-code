@@ -16,7 +16,6 @@
   🧑‍🎓 Final Year Computer Science Student at <strong>SGM College of Engineering</strong><br/>
   💡 Passionate about <strong>UI/UX, design systems, and frontend performance</strong><br/>
   🔧 Tech I use: <strong>HTML, CSS, JavaScript, Bootstrap, React, SQL, Figma</strong><br/>
-  📫 Reach me: <a href="mailto:laksh.dev.code@gmail.com">laksh.dev.code@gmail.com</a>
 </p>
 
 ---
