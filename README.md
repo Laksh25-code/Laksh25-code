@@ -46,5 +46,5 @@
 <p align="center">
   <a href="mailto:laksh.dev.code@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/laksh-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://figma.com/@laksh"><img src="https://img.shields.io/badge/Figma-1E1E2F?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href="https://www.figma.com/design/jQw5uB6rzqr8EVOu2juKfb/Shose?node-id=0-1&t=vxSuwKARqtW8M6cf-1"><img src="https://img.shields.io/badge/Figma-1E1E2F?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
