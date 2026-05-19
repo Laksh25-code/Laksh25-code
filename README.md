@@ -13,7 +13,7 @@
 <h2 align="center">🌐 Live Portfolio</h2>
 
 <p align="center">
-  <a href="YOUR_VERCEL_LINK">
+  <a href="[YOUR_VERCEL_LINK](https://laksh-portfolio-beryl.vercel.app/)">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -58,7 +58,7 @@ Modern responsive portfolio built using React, Tailwind CSS, Framer Motion, and 
 - Cinematic Layout
 - Modern UI/UX Experience
 
-🔗 Live Demo: [YOUR_VERCEL_LINK](https://laksh-portfolio-beryl.vercel.app/)
+🔗 Live Demo: [PORTFOLIO_LINK](https://laksh-portfolio-beryl.vercel.app/)
 
 </div>
 
