@@ -13,84 +13,71 @@
 <h2 align="center">🌐 Live Portfolio</h2>
 
 <p align="center">
-  <a href="[YOUR_VERCEL_LINK](https://laksh-portfolio-beryl.vercel.app/)">
+  <a href="https://laksh-portfolio-beryl.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+# 🚀 About Me
 
-<p align="center">
-  🎨 Creative frontend developer passionate about cinematic UI and modern web experiences.<br/><br/>
-  
-  🧑‍🎓 Final Year Computer Science Engineering Student at <strong>SGM College of Engineering</strong><br/><br/>
-  
-  💡 I enjoy building visually engaging websites with smooth animations, clean layouts, and responsive interfaces.<br/><br/>
-  
-  ⚡ Currently exploring <strong>React, Tailwind CSS, Framer Motion, UI/UX Design, and modern frontend development.</strong>
-</p>
+- 🎨 Creative frontend developer passionate about modern UI/UX
+- ⚡ Building cinematic and responsive web experiences
+- 🧑‍🎓 Final Year Computer Science Engineering Student
+- 💡 Interested in frontend performance and interaction design
+- 🚀 Currently exploring advanced animations and creative development
+- 🔥 Love turning ideas into visually engaging interfaces
 
 ---
 
 <h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,mysql,vscode,github" />
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mongodb,figma,mysql,git,github,vscode" />
+
 </p>
 
 ---
 
-<h2 align="center">🔥 Featured Project</h2>
+# 🎬 Featured Project
 
-<div align="center">
-
-### 🎬 Cinematic Developer Portfolio
+## 🚀 Cinematic Developer Portfolio
 
 Modern responsive portfolio built using React, Tailwind CSS, Framer Motion, and Vite.
 
-✨ Features:
-- Responsive Mobile + Desktop UI
-- Smooth Framer Motion Animations
-- Glassmorphism Design
-- Resume Download
-- Cinematic Layout
-- Modern UI/UX Experience
+### ✨ Features
+- Smooth animations
+- Cinematic UI
+- Responsive mobile design
+- Glassmorphism effects
+- Resume download
+- Interactive sections
+- Modern layout
 
-🔗 Live Demo: [PORTFOLIO_LINK](https://laksh-portfolio-beryl.vercel.app/)
-
-</div>
+### 🔗 Live Demo
+👉 https://laksh-portfolio-beryl.vercel.app/
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laksh25-code&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Laksh25-code&show_icons=true&theme=tokyonight&hide_border=true" 
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksh25-code&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-  <br/>
-  <br/>
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Laksh25-code&theme=tokyonight&hide_border=true" 
-  />
-
-  <br/>
-  <br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksh25-code&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Laksh25-code&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h2 align="center">🔗 Connect With Me</h2>
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -106,7 +93,7 @@ Modern responsive portfolio built using React, Tailwind CSS, Framer Motion, and 
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="YOUR_VERCEL_LINK">
+  <a href="https://laksh-portfolio-beryl.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
@@ -114,8 +101,16 @@ Modern responsive portfolio built using React, Tailwind CSS, Framer Motion, and 
 
 ---
 
-<h2 align="center">⚡ Fun Fact</h2>
+# ⚡ Fun Fact
 
 <p align="center">
-  I love building clean and cinematic interfaces that combine creativity with frontend engineering 🚀
+
+💻 I love building clean, modern, and cinematic web interfaces that combine creativity with frontend engineering.
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Laksh25-code">Laksh25-code</a>
 </p>
